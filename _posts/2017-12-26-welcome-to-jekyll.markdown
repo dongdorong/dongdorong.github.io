@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "yunii things"
+title:  "Dona"
 date:   2017-12-26 01:05:16 +0900
-categories: things
+categories: test1
 ---
-내용은 없습니다.
+Test 입니다.
