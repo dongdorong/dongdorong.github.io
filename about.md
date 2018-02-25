@@ -1,26 +1,140 @@
 ---
 layout: page
-title: about
+title: resume
 permalink: /about/
 ---
 
 <img class="col one left" src="/img/prof_pic.jpg">
 
+<div class="myIntro">
+    <h3>강동화</h3>
+    <h4><i class="fa fa-envelope-square"></i>dongkeeez@gmail.com</h4>
+    <h4><i class="fa fa-phone"></i>+82 10-7420-7076</h4>
+    <h4><i class="fa fa-github"></i><a href="https://github.com/dongdorong" target="blank">https://github.com/dongdorong</a></h4>
+    <h4><i class="fa fa-globe"></i><a href="http://dohadoha.cafe24.com" target="blank">http://dohadoha.cafe24.com</a></h4>
+</div>
+
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
-
-
+<div class="myTitle">
+    <h3>Introduce</h3>
+    <p class="myContents">
+저는 현재 스타트업에서 디자이너, 퍼블리셔로 근무 중입니다. UI/UX 디자인을 구상하고 퍼블리싱 과정에서 애니메이션을 코드로 구현하는 것까지 경험을 해봤고, 그 중 UI를 Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보이게하는 작업에 흥미를 많이 갖고 있습니다. iOS 개발자를 희망하는 이유는 iOS UI 구축에 관심이 많고, 제가 구축한 플랫폼으로 사용자들에게 긍정적인 영향을 주고 싶기 때문입니다. 디자이너, 퍼블리셔의 경험이 iOS UI 개발에 있어 설계 및 구현에  많은 도움이 된다고 생각합니다. 
 <br/>
+<br/>
+현재 관심을 갖고 있는 것은 AsyncDisplayKit Texture에 관심을 갖고 있습니다. Texture는 최근 글로벌 SNS 서비스 플랫폼 Vingle이 주최하는 Tech Talk을 통해 알게 되었고, iOS UI를 구현함에 편리함과 실용성을 함께 갖고 있기에 관심을 갖고 있고, 적용하기위한 습득 과정에 있습니다.
+클라이언트 뿐만 아니라 서버에도 관심이 있어 Python과 Firebase에 경험이 있고, 다양한 클라이언트 플랫폼을 활용하기 위해 React Native에도 관심이 있습니다.  iOS 개발을 위해 습득한 지식들을 GitHub에 정리하며 참고서를 만들며 진행하고 있습니다.
+    </p>
+</div>
+
 <hr/>
-<br/>
-<span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+
+<div class="myTitle">
+    <h3>Skills</h3>
+    <div class="col">
+    <p class="skill_one">Swift <span class="skill_num skill_num_02">2</span></p>
+    <p class="skill_one">HTML/CSS <span class="skill_num">3</span></p>
+    <p class="skill_one">Javascript <span class="skill_num skill_num_03">1</span></p>
+    <p class="skill_one">Python <span class="skill_num skill_num_03">1</span></p>
+    <p class="skill_one">Firebase <span class="skill_num skill_num_03">1</span></p>
+    <p class="skill_one">Adobe XD <span class="skill_num">3</span></p>
+    <p class="skill_one">Sketch <span class="skill_num">3</span></p>
+    <p class="skill_one">Photoshop <span class="skill_num">3</span></p>
+    <p class="skill_one">Illustrator <span class="skill_num">3</span></p>
+    </div>
+</div>
+
+<hr/>
+
+<div class="myTitle">
+    <h3>Experience</h3>
+    <div class="col">
+        <div class="one col left ex_title">2016.08.22 ~ 재직중</div> 
+        <div class="two col left ex_contents">
+        <p>플랫폼 로캣티어</p>
+        <p class="ex_position">UI Design Group - 선임 UI 디자이너, 퍼블리셔 </p>
+        <ul>
+            <li>Web/Application 플랫폼 구축</li>
+            <li>운영지원시스템, 퍼블리싱 운영</li>
+            <li>Web / Application UI 디자인</li>    
+        </ul>
+        </div>
+    </div>
+    <div class="col">
+        <div class="one col left ex_title">2015.09 ~ 2016.02</div> 
+        <div class="two col left ex_contents">
+        <p>휴메인 시스템</p>
+        <p class="ex_position">PM 프로젝트 매니저</p>
+        <ul>
+            <li>고려대학교, 한양대학교 수시/정시 입학 프로그램 운영 관리</li>
+            <li>안드로이드 버전 출결 시스템 관리</li>
+            <li>입시 평가 시스템 QC 테스트</li>
+            <li>채점 앱 관리</li>  
+        </ul>
+        </div>
+    </div>
+</div>
+
+<hr/>
+
+
+<div class="myTitle">
+    <h3>Project</h3>
+    <div class="col">
+        <div class="one col left ex_title">2016.00 ~ 2018.00</div> 
+        <div class="two col left ex_contents">
+        <p>Project</p>
+        <p class="ex_position">Project</p>
+        <ul>
+            <li>Project</li> 
+        </ul>
+        </div>
+    </div>
+    <div class="col">
+        <div class="one col left ex_title">2015.00 ~ 2016.00</div> 
+        <div class="two col left ex_contents">
+        <p>Project</p>
+        <p class="ex_position">Project</p>
+        <ul>
+            <li>Project</li>    
+        </ul>
+        </div>
+    </div>
+</div>
+
+<hr/>
+
+
+<div class="myTitle">
+    <h3>Education</h3>
+    <div class="col">
+        <div class="one col left ex_title">2011.03 ~ 2015.02</div> 
+        <div class="two col left ex_contents">
+        <p>서울예술대학교 Seoul Institute of the Arts</p>
+        <p class="ex_position">디지털아트학부(전문학사) - 미디어창작학부(석사)</p>
+        <ul>
+            <li>디지털 아트</li>
+            <li>게임 디자인 (UnReal)</li>
+            <li>실시간 이미지 프로세싱</li>
+            <li>융합미디어창작연구</li>
+            <li>미디어아트</li>    
+        </ul>
+        </div>
+    </div>
+    <div class="col">
+        <div class="one col left ex_title">2006.03 ~ 2009.02</div> 
+        <div class="two col left ex_contents">
+        <p>양명여자고등학교</p>
+        <p class="ex_position">인문계열</p>
+        </div>
+    </div>
+</div>
+
+
+<span class="contacticon right clearfix">
+	<a href="mailto:dongkeeez@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/dongdorong" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/dona-kang-2064ba125" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
