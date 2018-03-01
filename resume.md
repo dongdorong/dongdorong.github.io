@@ -60,7 +60,7 @@ Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보
         <div class="one col left ex_title">2016.08.22 ~ 재직중</div> 
         <div class="two col left ex_contents">
         <p>플랫폼 로캣티어</p>
-        <p class="ex_position">UI Design Group - 선임 UI 디자이너, 퍼블리셔 </p>
+        <p class="ex_position">UI Design Group - 선임 UI 디자이너</p>
         <ul>
             <li>Web/Application 플랫폼 구축</li>
             <li>운영지원시스템, 퍼블리싱 운영</li>
@@ -170,9 +170,8 @@ Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보
         <p>레드테이블</p>
         <p class="ex_position">다국어로 이루어진 세계 맛집 평가 플랫폼</p>
         <ul>
-            <li>UI 개발자 인력 부족으로 프론트엔드 개발 투입</li>
-            <li>백엔드 개발자와 협업 경험</li>
-            <li>다국어 서비스로 언어마다 다른 CSS 사용</li>
+            <li>개발인력 부족으로 프론트엔드 개발 투입</li>
+            <li>다국어 서비스로 영어/일본어/중국어 등 언어마다 다른 CSS 사용</li>
             <li>iOS/Android 클라이언트와 모바일웹의 인터렉트 통일</li>    
         </ul>
         </div>
