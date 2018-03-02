@@ -280,10 +280,11 @@ font-size: $caption_font_size;
 margin-left: 40px;
     float: left;
 }
-.myIntro > h3 {
+.myIntro > h2 {
+font-size: 25px;
 color: #000;
 margin-bottom: 15px;
-padding-top: 30px;
+padding-top: 50px;
 }
 .myIntro > h4{font-size: 17px;}
 .myIntro > h4 .fa{margin-right:20px;}
