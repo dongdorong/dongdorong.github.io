@@ -2,7 +2,6 @@
 layout: page
 title: resume
 permalink: /resume/
-description: 강동화의 이력서 입니다.
 ---
 
 <img class="col one left" src="/img/prof_pic.jpg">
