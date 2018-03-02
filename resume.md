@@ -2,6 +2,7 @@
 layout: page
 title: resume
 permalink: /resume/
+description: 강동화의 이력서 입니다.
 ---
 
 <img class="col one left" src="/img/prof_pic.jpg">
@@ -145,7 +146,7 @@ Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보
         <ul>
             <li>디자인 30% / 퍼블리싱 60% 참여</li>
             <li>개발서버와 실서버 운영 경험</li>
-            <li>ie 7부터 지원</li>
+            <li>IE7까지의 크로스 브라우징 지원 </li>
             <li>기존 UI에 맞춰 디자인 업그레이드 및 퍼블리싱 운영</li>
             <li>운영프로젝트 특성상 장기적이고 간헐적으로 업무가 있어 스케줄링의 중요성을 깨닫게 됨</li>
         </ul>
@@ -172,7 +173,7 @@ Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보
         <ul>
             <li>개발인력 부족으로 프론트엔드 개발 투입</li>
             <li>다국어 서비스로 영어/일본어/중국어 등 언어마다 다른 CSS 사용</li>
-            <li>iOS/Android 클라이언트와 모바일웹의 인터렉트 통일</li>    
+            <li>iOS/Android 클라이언트와 모바일웹의 인터렉션 통일</li>    
         </ul>
         </div>
     </div>
@@ -211,7 +212,7 @@ Html, Css, Javascript 코드로 구현하여 디바이스에 시각적으로 보
 <div class="myTitle">
     <h3>ETC</h3>
     <div class="col">
-        <div class="one col left ex_title">2017.09 ~ 진행중</div> 
+        <div class="one col left ex_title">2017.10 ~ 진행중</div> 
         <div class="two col left ex_contents">
         <p>NOMADE - 노메이드</p>
         <p class="ex_position">4인으로 구성된 프로젝트 팀</p>
